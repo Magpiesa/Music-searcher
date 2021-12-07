@@ -1,10 +1,10 @@
 <?php
 /**
  *
- * 音乐搜索器 - 函数声明
+ * 音乐搜索器 - 入口
  *
- * @author  MaiCong <i@maicong.me>
- * @link    https://github.com/maicong/music
+ * @author  小胡咩 <1642157054@qq.com>
+ * @link    https://github.com/Sunny-HuCunsong/Music-searcher
  * @since   1.6.2
  *
  */
