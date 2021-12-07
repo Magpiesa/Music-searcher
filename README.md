@@ -1,8 +1,7 @@
 # 音乐搜索器
 
-[![GitHub release](https://img.shields.io/github/release/maicong/music.svg?style=flat-square)](https://github.com/maicong/music/releases)
-[![PHP version](https://img.shields.io/badge/php-%3E%205.4-orange.svg)](https://github.com/php-src/php)
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](#LICENSE)
+[![GitHub release](https://img.shields.io/github/release/maicong/music.svg?style=flat-square)](https://github.com/Sunny-HuCunsong/Music-searcher)
+[![PHP version](https://img.shields.io/badge/php-%3E%205.4-orange.svg)](https://www.php.net/)
 
 ## 说明
 
@@ -18,11 +17,11 @@
 
 演示站点暂停维护，2018年11月01日起不再提供演示站点服务。
 
-如果有需要改进的地方，欢迎提交 [Pull Requests](https://github.com/maicong/music/pulls)
+如果有需要改进的地方，欢迎提交 [Pull Requests](https://github.com/Sunny-HuCunsong/Music-searcher/pulls)
 
 ## 下载
 
-[📦 下载开发版](https://github.com/maicong/music/archive/master.zip) [📦 获取稳定版](https://github.com/maicong/music/releases)
+[📦 Music-searcher](https://github.com/Sunny-HuCunsong/Music-searcher)
 
 ## 解决方案
 
