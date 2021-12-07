@@ -1,4 +1,4 @@
-<?php
+﻿﻿<?php
 /**
  *
  * 音乐搜索器 - 模版文件
@@ -193,19 +193,17 @@ if (!defined('MC_CORE')) {
                     <span data-am-modal-close class="am-close">&times;</span>
                 </div>
                 <div class="am-popup-bd">
-	    <p>二改作者：<a href="http://quit1.ltd/" target="_blank">小胡咩</a></p>
-                    <p>所有信息请参考 <a href="https://github.com/maicong/music">GitHub</a> 著作权归原作者所有 已暂停对源码更新以及维护</p>
+                    <p>所有信息请参考 <a href="https://github.com/maicong/music">GitHub</a> 已暂停对源码更新以及维护</p>
                     <p>本站音频文件来自各网站接口，本站不会修改任何音频文件</p>
                     <p>音频版权来自各网站，本站只提供数据查询服务，不提供任何音频存储和贩卖服务</p>
                     <p>若个人博客引用解析 请添加本站为友情链接</p>
-                    <p>原作者不以搭建 自行搭建不可提供贩卖服务</p>
                     <p>著作权归原作者所有</p>
                 </div>
             </div>
         </div>
     </section>
     <footer class="footer">
-        <p class="am-text-sm">v<?php echo MC_VERSION; ?>&nbsp;&copy;&nbsp;<?php echo date('Y'); ?>&nbsp;<a href="https://github.com/Sunny-HuCunsong/Music-searcher" target="_blank" rel="author">源码下载</a>&nbsp;<a href="https://github.com/maicong/music/issues" target="_blank">意见反馈</a>&nbsp;<a href="javascript:void(0)" data-am-modal="{target: '#copr-info'}">免责声明</a>&nbsp;<a href="http://quit1.ltd" target="_blank">小胡咩</p>
+        <p class="am-text-sm">v<?php echo MC_VERSION; ?>&nbsp;&copy;&nbsp;<?php echo date('Y'); ?>&nbsp;<a href="https://github.com/Sunny-HuCunsong/Music-searcher" target="_blank" rel="author">源码下载</a>&nbsp;<a href="https://github.com/Sunny-HuCunsong/Music-searcher/pulls" target="_blank">意见反馈</a>&nbsp;<a href="javascript:void(0)" data-am-modal="{target: '#copr-info'}">免责声明</a>&nbsp;<a href="http://quit1.ltd" target="_blank">小胡咩</p>
     </footer>
     <script src="//cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
     <script src="//cdn.staticfile.org/amazeui/2.3.0/js/amazeui.min.js"></script>
@@ -214,4 +212,3 @@ if (!defined('MC_CORE')) {
     <script src="static/js/music.js?v<?php echo MC_VERSION; ?>"></script>
 </body>
 </html>
-
