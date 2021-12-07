@@ -205,7 +205,7 @@ if (!defined('MC_CORE')) {
         </div>
     </section>
     <footer class="footer">
-        <p class="am-text-sm">v<?php echo MC_VERSION; ?>&nbsp;&copy;&nbsp;<?php echo date('Y'); ?>&nbsp;<a href="https://github.com/maicong/music/releases" target="_blank" rel="author">源码下载</a>&nbsp;<a href="https://github.com/maicong/music/issues" target="_blank">意见反馈</a>&nbsp;<a href="javascript:void(0)" data-am-modal="{target: '#copr-info'}">免责声明</a>&nbsp;<a href="http://quit1.ltd" target="_blank">小胡咩</p>
+        <p class="am-text-sm">v<?php echo MC_VERSION; ?>&nbsp;&copy;&nbsp;<?php echo date('Y'); ?>&nbsp;<a href="https://github.com/Sunny-HuCunsong/Music-searcher" target="_blank" rel="author">源码下载</a>&nbsp;<a href="https://github.com/maicong/music/issues" target="_blank">意见反馈</a>&nbsp;<a href="javascript:void(0)" data-am-modal="{target: '#copr-info'}">免责声明</a>&nbsp;<a href="http://quit1.ltd" target="_blank">小胡咩</p>
     </footer>
     <script src="//cdn.staticfile.org/jquery/1.11.1/jquery.min.js"></script>
     <script src="//cdn.staticfile.org/amazeui/2.3.0/js/amazeui.min.js"></script>
